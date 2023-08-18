@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 cat <<EOF >/etc/systemd/system/rc-local.service
 [Unit]
